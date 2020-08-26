@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Jure:Kakadudl123@devconnector.lpkug.mongodb.net/test",
+    "jwtSecret": "mysecrettoken"
+}
